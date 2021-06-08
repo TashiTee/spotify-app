@@ -1,6 +1,7 @@
 export const songsList = [{
-    "id": "1",
-    "url": "../../music/Drake - In My Feelings.mp3",
+    "id": "1",  
+    "url": " ../../../../assets/music/Drake - In My Feelings.mp3",
+    //  /assets/music/Drake - In My Feelings.mp3",
     "time": "03:38",
     "title": "In My Feelings",
     "artist": "Drake"
